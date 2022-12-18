@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\git\03 Programming\Example\Example001_HelloWord\bin\Debug\net7.0\Example001_HelloWord.exe
+C:\Users\admin\Desktop\git\03 Programming\Example\Example001_HelloWord\bin\Debug\net7.0\Example001_HelloWord.deps.json
+C:\Users\admin\Desktop\git\03 Programming\Example\Example001_HelloWord\bin\Debug\net7.0\Example001_HelloWord.runtimeconfig.json
+C:\Users\admin\Desktop\git\03 Programming\Example\Example001_HelloWord\bin\Debug\net7.0\Example001_HelloWord.dll
+C:\Users\admin\Desktop\git\03 Programming\Example\Example001_HelloWord\bin\Debug\net7.0\Example001_HelloWord.pdb
+C:\Users\admin\Desktop\git\03 Programming\Example\Example001_HelloWord\obj\Debug\net7.0\Example001_HelloWord.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\git\03 Programming\Example\Example001_HelloWord\obj\Debug\net7.0\Example001_HelloWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\git\03 Programming\Example\Example001_HelloWord\obj\Debug\net7.0\Example001_HelloWord.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\git\03 Programming\Example\Example001_HelloWord\obj\Debug\net7.0\Example001_HelloWord.AssemblyInfo.cs
+C:\Users\admin\Desktop\git\03 Programming\Example\Example001_HelloWord\obj\Debug\net7.0\Example001_HelloWord.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\git\03 Programming\Example\Example001_HelloWord\obj\Debug\net7.0\Example001_HelloWord.dll
+C:\Users\admin\Desktop\git\03 Programming\Example\Example001_HelloWord\obj\Debug\net7.0\refint\Example001_HelloWord.dll
+C:\Users\admin\Desktop\git\03 Programming\Example\Example001_HelloWord\obj\Debug\net7.0\Example001_HelloWord.pdb
+C:\Users\admin\Desktop\git\03 Programming\Example\Example001_HelloWord\obj\Debug\net7.0\Example001_HelloWord.genruntimeconfig.cache
+C:\Users\admin\Desktop\git\03 Programming\Example\Example001_HelloWord\obj\Debug\net7.0\ref\Example001_HelloWord.dll
